@@ -1,0 +1,23 @@
+{
+    "/vendor.js": "/vendor.js",
+    "/manifest.js": "/manifest.js",
+    "/assets/css/main.css": "/assets/css/main.css",
+    "/assets/css/h-menu.css": "/assets/css/h-menu.css",
+    "/assets/css/chatapp.css": "/assets/css/chatapp.css",
+    "/assets/css/blog.css": "/assets/css/blog.css",
+    "/assets/css/ecommerce.css": "/assets/css/ecommerce.css",
+    "/assets/css/inbox.css": "/assets/css/inbox.css",
+    "/assets/bundles/libscripts.bundle.js": "/assets/bundles/libscripts.bundle.js",
+    "/assets/bundles/vendorscripts.bundle.js": "/assets/bundles/vendorscripts.bundle.js",
+    "/assets/bundles/mainscripts.bundle.js": "/assets/bundles/mainscripts.bundle.js",
+    "/assets/bundles/apexcharts.bundle.js": "/assets/bundles/apexcharts.bundle.js",
+    "/assets/bundles/c3.bundle.js": "/assets/bundles/c3.bundle.js",
+    "/assets/bundles/morrisscripts.bundle.js": "/assets/bundles/morrisscripts.bundle.js",
+    "/assets/bundles/knob.bundle.js": "/assets/bundles/knob.bundle.js",
+    "/assets/bundles/chartist.bundle.js": "/assets/bundles/chartist.bundle.js",
+    "/assets/bundles/easypiechart.bundle.js": "/assets/bundles/easypiechart.bundle.js",
+    "/assets/bundles/flotscripts.bundle.js": "/assets/bundles/flotscripts.bundle.js",
+    "/assets/bundles/fullcalendarscripts.bundle.js": "/assets/bundles/fullcalendarscripts.bundle.js",
+    "/assets/bundles/datatablescripts.bundle.js": "/assets/bundles/datatablescripts.bundle.js",
+    "/assets/bundles/jvectormap.bundle.js": "/assets/bundles/jvectormap.bundle.js"
+}
